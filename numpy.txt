@@ -1,0 +1,4 @@
+numpy exercises 
+1	https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises_with_solutions.md
+2	https://github.com/codebasics/py/blob/master/numpy/nditer.ipynb
+
